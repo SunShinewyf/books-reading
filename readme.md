@@ -26,3 +26,4 @@
 - [巨人的陨落 II](https://github.com/SunShinewyf/issue-blog/issues/29) 2017-09-03
 - [巨人的陨落 III](https://github.com/SunShinewyf/books-reading/issues/1) 2017-09-09
 - [如何成为一个很厉害的人](https://github.com/SunShinewyf/books-reading/issues/2) 2017-10-01
+- [浪潮之巅](https://github.com/SunShinewyf/books-reading/issues/3) 2017-10-14
