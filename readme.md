@@ -29,3 +29,5 @@
 - [浪潮之巅](https://github.com/SunShinewyf/books-reading/issues/3) 2017-10-14
 - [圣女的救济](https://github.com/SunShinewyf/books-reading/issues/4) 2017-10-17
 - [白夜行](https://github.com/SunShinewyf/books-reading/issues/5) 2017-10-29
+- [增长黑客](https://github.com/SunShinewyf/books-reading/issues/6) 2017-11-12
+
