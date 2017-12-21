@@ -31,4 +31,5 @@
 - [白夜行](https://github.com/SunShinewyf/books-reading/issues/5) 2017-10-29
 - [增长黑客](https://github.com/SunShinewyf/books-reading/issues/6) 2017-11-12
 - [杀死一只知更鸟](https://github.com/SunShinewyf/books-reading/issues/7) 2017-11-19
+- [查令十字街84号](https://github.com/SunShinewyf/books-reading/issues/8) 2017-12-21
 
