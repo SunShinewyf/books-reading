@@ -37,3 +37,4 @@
 - [目送](https://github.com/SunShinewyf/books-reading/issues/11) 2018-04-29
 - [人类简史](https://github.com/SunShinewyf/books-reading/issues/12) 2018-05-26
 - [卡耐基魅力口才与演讲的艺术](https://github.com/SunShinewyf/books-reading/issues/13) 2018-06-04
+- [明朝那些事儿](https://github.com/SunShinewyf/books-reading/issues/14) 2018-08-05
