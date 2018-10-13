@@ -1,12 +1,13 @@
 ### 前言
- 喜欢读书，灵魂和身体至少有一个在路上。读书，从来都是很值得投资，希望自己在文字中间可以找到灵魂的沉淀，这里主要是记录自己的一些读后感。
 
+喜欢读书，灵魂和身体至少有一个在路上。读书，从来都是很值得投资，希望自己在文字中间可以找到灵魂的沉淀，这里主要是记录自己的一些读后感。
 
 ### 人文书籍读后感
-- [偷影子的人](https://github.com/SunShinewyf/issue-blog/issues/6)  2015-04-20
-- [你的孤独，虽败犹荣](https://github.com/SunShinewyf/issue-blog/issues/3)  2015-10-02
-- [向前一步](https://github.com/SunShinewyf/issue-blog/issues/4)  2015-10-15
-- [活着](https://github.com/SunShinewyf/issue-blog/issues/5)   2015-11-10
+
+- [偷影子的人](https://github.com/SunShinewyf/issue-blog/issues/6) 2015-04-20
+- [你的孤独，虽败犹荣](https://github.com/SunShinewyf/issue-blog/issues/3) 2015-10-02
+- [向前一步](https://github.com/SunShinewyf/issue-blog/issues/4) 2015-10-15
+- [活着](https://github.com/SunShinewyf/issue-blog/issues/5) 2015-11-10
 - [幸福了吗](https://github.com/SunShinewyf/issue-blog/issues/7) 2016-05-28
 - [灵魂有香气的女子](https://github.com/SunShinewyf/issue-blog/issues/8) 2016-10-21
 - [生死场](https://github.com/SunShinewyf/issue-blog/issues/9) 2016-10-22
@@ -31,7 +32,7 @@
 - [白夜行](https://github.com/SunShinewyf/books-reading/issues/5) 2017-10-29
 - [增长黑客](https://github.com/SunShinewyf/books-reading/issues/6) 2017-11-12
 - [杀死一只知更鸟](https://github.com/SunShinewyf/books-reading/issues/7) 2017-11-19
-- [查令十字街84号](https://github.com/SunShinewyf/books-reading/issues/8) 2017-12-21
+- [查令十字街 84 号](https://github.com/SunShinewyf/books-reading/issues/8) 2017-12-21
 - [小王子](https://github.com/SunShinewyf/books-reading/issues/9) 2017-12-27
 - [动物庄园](https://github.com/SunShinewyf/books-reading/issues/10) 2018-03-30
 - [目送](https://github.com/SunShinewyf/books-reading/issues/11) 2018-04-29
@@ -40,3 +41,4 @@
 - [明朝那些事儿](https://github.com/SunShinewyf/books-reading/issues/14) 2018-08-05
 - [未来简史](https://github.com/SunShinewyf/books-reading/issues/15) 2018-09-11
 - [拆掉思维里的墙](https://github.com/SunShinewyf/books-reading/issues/16) 2018-10-01
+- [小狗钱钱](https://github.com/SunShinewyf/books-reading/issues/17) 2018-10-08
