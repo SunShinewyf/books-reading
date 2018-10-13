@@ -41,4 +41,4 @@
 - [明朝那些事儿](https://github.com/SunShinewyf/books-reading/issues/14) 2018-08-05
 - [未来简史](https://github.com/SunShinewyf/books-reading/issues/15) 2018-09-11
 - [拆掉思维里的墙](https://github.com/SunShinewyf/books-reading/issues/16) 2018-10-01
-- [小狗钱钱](https://github.com/SunShinewyf/books-reading/issues/17) 2018-10-08
+- [小狗钱钱](https://github.com/SunShinewyf/books-reading/issues/17) 2018-10-09
