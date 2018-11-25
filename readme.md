@@ -42,3 +42,4 @@
 - [未来简史](https://github.com/SunShinewyf/books-reading/issues/15) 2018-09-11
 - [拆掉思维里的墙](https://github.com/SunShinewyf/books-reading/issues/16) 2018-10-01
 - [小狗钱钱](https://github.com/SunShinewyf/books-reading/issues/17) 2018-10-09
+- [精益数据分析](https://github.com/SunShinewyf/books-reading/issues/18) 2018-11-25
