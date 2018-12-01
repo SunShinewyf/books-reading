@@ -43,3 +43,4 @@
 - [拆掉思维里的墙](https://github.com/SunShinewyf/books-reading/issues/16) 2018-10-01
 - [小狗钱钱](https://github.com/SunShinewyf/books-reading/issues/17) 2018-10-09
 - [精益数据分析](https://github.com/SunShinewyf/books-reading/issues/18) 2018-11-25
+- [菊与刀](https://github.com/SunShinewyf/books-reading/issues/19) 2018-12-01
