@@ -45,3 +45,4 @@
 - [精益数据分析](https://github.com/SunShinewyf/books-reading/issues/18) 2018-11-25
 - [菊与刀](https://github.com/SunShinewyf/books-reading/issues/19) 2018-12-01
 - [如何成为一个有趣的人](https://github.com/SunShinewyf/books-reading/issues/20) 2018-12-09
+- [爱因斯坦赤道](https://github.com/SunShinewyf/books-reading/issues/21) 2018-12-18
