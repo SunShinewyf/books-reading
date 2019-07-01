@@ -33,7 +33,7 @@
 - [增长黑客](https://github.com/SunShinewyf/books-reading/issues/6) 2017-11-12
 - [杀死一只知更鸟](https://github.com/SunShinewyf/books-reading/issues/7) 2017-11-19
 - [查令十字街 84 号](https://github.com/SunShinewyf/books-reading/issues/8) 2017-12-21
-- [小王子](https://github.com/SunShinewyf/books-reading/issues/9) 2017-12-27
+- [小王子](https://github.com/SunShinewyf/books-reading/issues/9) 2017-12-
 - [动物庄园](https://github.com/SunShinewyf/books-reading/issues/10) 2018-03-30
 - [目送](https://github.com/SunShinewyf/books-reading/issues/11) 2018-04-29
 - [人类简史](https://github.com/SunShinewyf/books-reading/issues/12) 2018-05-26
@@ -49,5 +49,6 @@
 - [重病之王-癌症传](https://github.com/SunShinewyf/books-reading/issues/22) 2019-03-20
 - [达·芬奇密码](https://github.com/SunShinewyf/books-reading/issues/23) 2019-04-07
 - [苏菲的世界](https://github.com/SunShinewyf/books-reading/issues/24) 2019-06-10
+- [轻松学会独立思考](https://github.com/SunShinewyf/books-reading/issues/25) 2019-06-29
 
 
