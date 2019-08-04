@@ -51,5 +51,6 @@
 - [苏菲的世界](https://github.com/SunShinewyf/books-reading/issues/24) 2019-06-10
 - [轻松学会独立思考](https://github.com/SunShinewyf/books-reading/issues/25) 2019-06-29
 - [见识](https://github.com/SunShinewyf/books-reading/issues/26) 2019-07-27
+- [亲密关系](https://github.com/SunShinewyf/books-reading/issues/27) 2019-08-01
 
 
