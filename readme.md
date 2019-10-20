@@ -55,4 +55,5 @@
 - [非暴力沟通](https://github.com/SunShinewyf/books-reading/issues/28) 2019-08-24
 - [我的天才女友](https://github.com/SunShinewyf/books-reading/issues/29) 2019-09-14
 - [人生的智慧](https://github.com/SunShinewyf/books-reading/issues/30) 2019-10-09
+- [新名字的故事](https://github.com/SunShinewyf/books-reading/issues/31) 2019-10-20
 
