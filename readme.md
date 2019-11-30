@@ -57,4 +57,5 @@
 - [人生的智慧](https://github.com/SunShinewyf/books-reading/issues/30) 2019-10-09
 - [新名字的故事](https://github.com/SunShinewyf/books-reading/issues/31) 2019-10-20
 - [次第花开](https://github.com/SunShinewyf/books-reading/issues/32) 2019-11-10
+- [离开的，留下的](https://github.com/SunShinewyf/books-reading/issues/33) 2019-11-23
 
