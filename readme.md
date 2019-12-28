@@ -58,4 +58,5 @@
 - [新名字的故事](https://github.com/SunShinewyf/books-reading/issues/31) 2019-10-20
 - [次第花开](https://github.com/SunShinewyf/books-reading/issues/32) 2019-11-10
 - [离开的，留下的](https://github.com/SunShinewyf/books-reading/issues/33) 2019-11-23
+- [稻盛和夫的人生哲学](https://github.com/SunShinewyf/books-reading/issues/34) 2019-12-22
 
